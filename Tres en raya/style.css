@@ -1,0 +1,13 @@
+button{
+    width:200px;
+    height:200px;
+    background-color:gray;
+    
+}
+.container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    width: 600px;
+    margin: auto;
+
+}
